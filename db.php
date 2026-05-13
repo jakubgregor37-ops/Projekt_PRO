@@ -22,3 +22,4 @@ if (!$conn) {
 
 // Nastav kódovanie na UTF-8 (kvôli diakritic)
 mysqli_set_charset($conn, 'utf8mb4');
+
