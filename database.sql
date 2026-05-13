@@ -50,3 +50,4 @@ INSERT INTO tasks (user_id, title, status) VALUES
     (1, 'Finish homework',       'pending'),
     (2, 'Clean the apartment',   'pending'),
     (2, 'Go for a morning run',  'done');
+
