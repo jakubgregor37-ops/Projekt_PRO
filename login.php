@@ -44,7 +44,7 @@
         <div class="form-group">
           <label>Heslo</label>
           <div class="input-wrapper">
-            <input type="password" id="loginPwd" placeholder="••••••••" required />
+            <input type="password" id="loginPwd" placeholder="Zadajte heslo" required />
             <button type="button" class="toggle-pwd" onclick="togglePwd('loginPwd', this)">👁</button>
           </div>
         </div>
